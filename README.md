@@ -74,6 +74,6 @@ Créer un chatbot vocal capable de :
 
 ---
 
-## 👨‍💻 Auteurs
+## 👨‍💻 Auteur
 
 Lucas Gelgon  
