@@ -63,7 +63,7 @@ Créer un chatbot vocal capable de :
 ## 📁 Structure du projet
 
 ```
-📦 iut_qa_voicebot/
+📦 iut_chatbot/
  ┣ audio/
  ┃ ┣ audio_mauvais.mp3
  ┃ ┣ audio_confus.mp3
