@@ -3,7 +3,8 @@
 
 ---
 
-🖼️ Des captures d’écran explicatives sont disponibles sur : [lgelgon.fr/PageChatbot](https://lgelgon.fr/PageChatbot)
+🖼️ Des captures d’écran explicatives sont disponibles sur : [lgelgon.fr/PageTaskflow](https://lgelgon.fr/PageTaskflow)
+🎮 Une démo est également disponible [ici](https://lgelgon.fr/taskflow/)
 
 ---
 
