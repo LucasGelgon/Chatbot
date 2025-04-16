@@ -3,6 +3,10 @@
 
 ---
 
+🖼️ Des captures d’écran explicatives sont disponibles sur : [lgelgon.fr/PageChatbot](https://lgelgon.fr/PageChatbot)
+
+---
+
 ## 🎯 Objectif  
 Créer un chatbot vocal capable de :
 - **Comprendre une question orale** même mal formulée (grâce à Whisper)
