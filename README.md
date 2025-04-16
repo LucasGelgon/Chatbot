@@ -12,7 +12,6 @@ Créer un chatbot vocal capable de :
 - **Comprendre une question orale** même mal formulée (grâce à Whisper)
 - **Extraire la réponse à partir de documents internes** (grâce à LightRAG + Ollama)
 - **Afficher une réponse complète et structurée**  
-⚠️ L’audio de réponse est généré dans un second temps, mais ce n’est **pas le cœur du projet**.
 
 ---
 
@@ -47,7 +46,7 @@ Créer un chatbot vocal capable de :
 1. **L’utilisateur pose une question à l’oral** → audio enregistré
 2. **Whisper transcrit l’audio** en texte
 3. **LightRAG** interroge une base documentaire (informations sur l’IUT de Vannes)
-4. **La réponse est générée** sous forme de texte (ou audio si activé)
+4. **La réponse est générée** sous forme de texte et audio
 
 ---
 
